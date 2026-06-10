@@ -6,11 +6,6 @@ certifi
 pymongo[srv]
 scikit-learn==1.5.1
 mlflow
-pyaml
+pyyaml
 dagshub
-fastapi
-uvicorn
-python-multipart
-
-
-##-e .
+streamlit

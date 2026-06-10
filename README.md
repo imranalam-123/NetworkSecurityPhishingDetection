@@ -1,29 +1,35 @@
-### Network Security Projects For Phising Data
+# Network Security Phishing Detection
 
-Setup github secrets:
-AWS_ACCESS_KEY_ID=
+## Overview
+A machine learning-based phishing website detection system built using FastAPI, Streamlit, MongoDB, and Scikit-Learn.
 
-AWS_SECRET_ACCESS_KEY=
+## Features
+- Data Ingestion
+- Data Validation
+- Data Transformation
+- Model Training
+- FastAPI Backend
+- Streamlit Frontend
+- CSV Batch Prediction
+- Prediction Visualization
 
-AWS_REGION = us-east-1
+## Tech Stack
+- Python
+- FastAPI
+- Streamlit
+- MongoDB Atlas
+- Scikit-Learn
+- Pandas
+- MLflow
 
-AWS_ECR_LOGIN_URI = 788614365622.dkr.ecr.us-east-1.amazonaws.com/networkssecurity
-ECR_REPOSITORY_NAME = networkssecurity
+## Project Architecture
 
+## Installation
 
-Docker Setup In EC2 commands to be Executed
-#optinal
+## Run FastAPI
 
-sudo apt-get update -y
+## Run Streamlit
 
-sudo apt-get upgrade
+## Screenshots
 
-#required
-
-curl -fsSL https://get.docker.com -o get-docker.sh
-
-sudo sh get-docker.sh
-
-sudo usermod -aG docker ubuntu
-
-newgrp docker
+## Future Improvements

@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Training Artifacts
+Artifacts/
+
+# Prediction Outputs
+prediction_output/
+
+# VS Code Settings
+.vscode/
+
+# Dataset (optional)
+Network_Data/
+
+# OS Files
+.DS_Store
+Thumbs.db

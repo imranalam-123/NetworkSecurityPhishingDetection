@@ -1,11 +1,6 @@
-python-dotenv
+streamlit
 pandas
 numpy
-pymongo
-certifi
-pymongo[srv]
 scikit-learn==1.5.1
-mlflow
 pyyaml
-dagshub
-streamlit
+joblib
